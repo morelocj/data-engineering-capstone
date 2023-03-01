@@ -8,5 +8,3 @@ mysql
 mysql-connector-python
 requests
 pyinputplus
---- wait, do I just need to second one? or do I actually need both? 
---- Check it on a dif environment
